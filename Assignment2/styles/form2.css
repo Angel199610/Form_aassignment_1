@@ -1,0 +1,9 @@
+.container {
+    border: 1px snow;
+    border-radius: 5px;
+    background-color: aliceblue;
+    padding: 20px;
+    width: 300px;
+    margin: auto;
+    box-shadow: 0 0 10px black;
+}
